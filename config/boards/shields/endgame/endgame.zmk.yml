@@ -1,0 +1,11 @@
+file_format: "1"
+id: endgame
+name: endgame
+type: shield
+url: https://docs.keeb.supply/endgame/
+requires:
+  - pro_micro
+features:
+  - keys
+siblings:
+  - endgame
